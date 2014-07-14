@@ -1,4 +1,4 @@
-_Equivalent Exchange 2:_ A mod in a time capsule
+_Equivalent Exchange 2:_ A Mod in a Time Capsule
 ===============
 
 This is a repo for a port of the brilliant and popular Minecraft mod Equivalent Exchange 2 by x3n0ph0b3. Rewritten from the ground up with as much historical accuracy as possible!
@@ -52,18 +52,3 @@ What Needs Doing
 * Dark Matter Pedestal
 
 * All Armors
-
-
-##Contribution Guidelines For Possible Posterity?
-===============
-Maintaining as close to 100% faithfulness to the original EE2 as possible is the major overarching principal behind this project.
-
-If you are making a PR containing a gameplay addition or change, make sure you have thoroughly tested for perfect-as-possible accuracy against the original mod in-game. The wiki above is not always correct. When something is found on the wiki but not in-game, the in-game evidence takes precedence over the wiki.
-
-Stick to the original ID map of the mod. I don't care if you can fit two new items into the same block/item ID, the ID scheme of the original mod is to be used.
-
-If you are planning to PR something that wasn't in the original EE2, __DON'T__. But feel free to write an addon! I love addons.
-
-Feel free to squash any and all unintentional bugs in the code and optimize things, so long as this does not affect gameplay mechanics in any way.
-
-
