@@ -27,31 +27,31 @@ What Needs Doing
 
 ###Incomplete/Unimplemented Items
 
-	#####Incomplete Items
+#####Incomplete Items
 
-	* Harvest Goddess Band needs left and right click functionality
+* Harvest Goddess Band needs left and right click functionality
 
-	* Void Ring needs in-chest/bag effect (will probably be trivial once density gem is fixed)
+* Void Ring needs in-chest/bag effect (will probably be trivial once density gem is fixed)
 
-	* DM/RM picks and Morning Star need proper harvest values for DM/RM Blocks
+* DM/RM picks and Morning Star need proper harvest values for DM/RM Blocks
 
-	* Nova Catalyst and Cataclysm need to actually go boom (historical accuracy is difficult but key here)
+* Nova Catalyst and Cataclysm need to actually go boom (historical accuracy is difficult but key here)
 
-	#####Unimplemented Items
+#####Unimplemented Items
 
-	* Ring of Arcana
+* Ring of Arcana
 
-	* Archangel's Smite
+* Archangel's Smite
 
-	* Watch of Flowing Time
+* Watch of Flowing Time
 
-	* Evertide/Volcanite Amulets
+* Evertide/Volcanite Amulets
 
-	* Hyperkinetic and Catalytics Lenses
+* Hyperkinetic and Catalytics Lenses
 
-	* Dark Matter Pedestal
+* Dark Matter Pedestal
 
-	* All Armors
+* All Armors
 
 
 ##Contribution Guidelines For Possible Posterity?
