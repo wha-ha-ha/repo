@@ -52,3 +52,5 @@ What Needs Doing
 * Dark Matter Pedestal
 
 * All Armors
+
+* Mercurial Eye
