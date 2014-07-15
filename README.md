@@ -47,7 +47,7 @@ What Needs Doing
 
 * Evertide/Volcanite Amulets
 
-* Hyperkinetic and Catalytics Lenses
+* Hyperkinetic and Catalytic Lenses
 
 * Dark Matter Pedestal
 
