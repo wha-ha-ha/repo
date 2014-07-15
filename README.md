@@ -17,6 +17,8 @@ What Needs Doing
 
 * Update to 1.7.10. (Currently version 1.6.4)
 
+* Need system to hijack left-click as a keybind (items with left click functions currently use onEntitySwing which is bad)
+
 ###Known Bugs To Be Fixed
 
 * Gem of Eternal Density working improperly inside Alchemy Bags
